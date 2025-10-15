@@ -42,7 +42,7 @@ class HomeScreen extends StatelessWidget {
       },
       {
         "title": "Faktor Risiko",
-        "icon": Icons.risk_assessment_outlined,
+        "icon": Icons.risk_assessment,
       },
       {
         "title": "Pencegahan",
